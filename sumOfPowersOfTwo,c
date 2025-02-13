@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<math.h>
+//to find sum of powers of 2,from 0 and upto 64
+int main()
+{
+    double sum=0;
+    for(int i=0;i<=64;i++)
+    {
+    sum+=pow(2,i);
+    printf("2^%d is : %.0lf\n",i,pow(2,i));
+    printf("sum is %.0lf\n",sum);
+}
+}
