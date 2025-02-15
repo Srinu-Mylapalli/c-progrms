@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-enum day{sunday,monday,tuesday,wednesday,thursday,friday,saturday};// is giving int values from zero onwards to each name inside it
+enum day{sunday,monday,tuesday,wednesday,thursday,friday,saturday};// is giving int values from zero onwards to each name inside it...helpful in replacing numbers with meaningful names
 void main()
 {
     int ch;
