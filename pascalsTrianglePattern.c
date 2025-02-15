@@ -3,6 +3,7 @@
 int main()
 {
   int r=5,val=1;
+int i,j;
 clrscr();
 for(i=0;i<r;i++)
 {
