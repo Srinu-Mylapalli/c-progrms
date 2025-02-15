@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<conio.h>//clrscr() and getch() are not in modern IDEs ,are for turbo C++
 int main()
 {
   int r=5,val=1;
