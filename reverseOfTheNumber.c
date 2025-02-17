@@ -1,4 +1,5 @@
 #include<stdio.h>
+#to print reversed numbers between the given two limits
 void main()
 {
   int l1,l2,r,dup,sum=0;
